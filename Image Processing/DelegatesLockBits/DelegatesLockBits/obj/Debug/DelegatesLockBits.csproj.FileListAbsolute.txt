@@ -1,0 +1,10 @@
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\bin\Debug\DelegatesLockBits.exe.config
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\bin\Debug\DelegatesLockBits.exe
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\bin\Debug\DelegatesLockBits.pdb
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\obj\Debug\DelegatesLockBits.csprojAssemblyReference.cache
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\obj\Debug\DelegatesLockBits.Form1.resources
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\obj\Debug\DelegatesLockBits.Properties.Resources.resources
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\obj\Debug\DelegatesLockBits.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\obj\Debug\DelegatesLockBits.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\obj\Debug\DelegatesLockBits.exe
+C:\Users\Isaac\source\repos\DelegatesLockBits\DelegatesLockBits\obj\Debug\DelegatesLockBits.pdb

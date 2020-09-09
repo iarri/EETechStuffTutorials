@@ -1,0 +1,10 @@
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\bin\Release\EventsDelegatesDemo.exe.config
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\bin\Release\EventsDelegatesDemo.exe
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\bin\Release\EventsDelegatesDemo.pdb
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\obj\Release\EventsDelegatesDemo.Form1.resources
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\obj\Release\EventsDelegatesDemo.Properties.Resources.resources
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\obj\Release\EventsDelegatesDemo.csproj.GenerateResource.cache
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\obj\Release\EventsDelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\obj\Release\EventsDelegatesDemo.exe
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\obj\Release\EventsDelegatesDemo.pdb
+C:\Users\Isaac\source\repos\EventsDelegatesDemo\EventsDelegatesDemo\obj\Release\EventsDelegatesDemo.csprojAssemblyReference.cache
